@@ -1,4 +1,4 @@
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=muttaky&](https://devmuttaky.web.app/banner.png)" alt="muttaky" /></p>
+<p><img align="center" src="https://devmuttaky.web.app/banner.png" alt="muttaky" /></p>
 <h1 align="center">Hi 👋, I'm Muttaky</h1>
 <h3 align="center">A passionate web developer from Dhaka,Bangladesh</h3>
 <h3 align="left">About me:</h3>
