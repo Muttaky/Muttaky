@@ -3,9 +3,10 @@
 <h3 align="center">A passionate web developer from Dhaka,Bangladesh</h3>
 <h3 align="left">About me:</h3>
 <p align="left">
-My name is Muttaky Ibne Sadeque
-  I am from Dhaka,Bangladesh 
-  Learned Programming from Programming Hero
+My name is Muttaky Ibne Sadeque ,
+  I am from Dhaka,Bangladesh ,
+  Learned Programming from Programming Hero...
+  I can make full stack web app using MERN
 </p>
 - 🔭 I’m currently working on [zap-shift](zap-shift-muttaky.netlify.app)
 
